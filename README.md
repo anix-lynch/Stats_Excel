@@ -4,3 +4,6 @@
 
 - Z-Test
   https://anixblog.hashnode.dev/z-test-w-excel-vs-python-scipystats
+
+- P-Value
+  https://anixblog.hashnode.dev/p-value-excel-vs-python-scipystats
