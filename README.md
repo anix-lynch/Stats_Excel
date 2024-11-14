@@ -10,3 +10,6 @@
 
 - Anova
   https://anixblog.hashnode.dev/anova-excel-vs-python-scipystats
+
+- Chi Square Test
+  https://anixblog.hashnode.dev/chi-square-test
