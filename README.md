@@ -7,3 +7,6 @@
 
 - P-Value
   https://anixblog.hashnode.dev/p-value-excel-vs-python-scipystats
+
+- Anova
+  https://anixblog.hashnode.dev/anova-excel-vs-python-scipystats
